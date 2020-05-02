@@ -1,0 +1,19 @@
+@import '../../styles/variables';
+
+.main {
+    font-family: $fira-sans;
+
+    &:after {
+        content: '';
+        background: url('https://www.itl.cat/pngfile/big/30-301955_breath-of-the-wild-hd-wallpaper-gallery-zelda.jpg');
+        opacity: 0.4;
+        top: -50px;
+        bottom: 0;
+        left: 0;
+        right: 0;
+        position: absolute;
+        z-index: -1;
+        background-size: 1680px;
+        background-repeat: no-repeat;
+    }
+}
