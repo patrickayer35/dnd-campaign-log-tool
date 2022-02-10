@@ -19,7 +19,7 @@
   },
   "homepage": "https://github.com/patrickayer35/dnd-campaign-log-tool#readme",
   "dependencies": {
-    "node-sass": "^4.14.0",
+    "node-sass": "^7.0.0",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
     "style-loader": "^1.2.0"
